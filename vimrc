@@ -5,7 +5,7 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 set encoding=utf-8
-colorscheme molokai
+" colorscheme molokai
 set number
 set cursorline
 set incsearch
