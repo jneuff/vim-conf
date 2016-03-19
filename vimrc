@@ -10,6 +10,8 @@ set number
 set cursorline
 set incsearch
 
+" for c
+autocmd Filetype c setlocal ts=2 sts=2 sw=2
 
 inoremap jj <ESC>
 let mapleader="\<Space>"
